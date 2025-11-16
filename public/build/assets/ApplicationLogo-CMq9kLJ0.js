@@ -1,0 +1,1 @@
+import{j as e}from"./app-DzxEQGvE.js";function i({className:t=""}){return e.jsx("div",{className:`flex items-center ${t}`,children:e.jsx("div",{className:"flex h-9 w-9 items-center justify-center rounded-full bg-slate-900 text-sm font-semibold text-white",children:"O"})})}export{i as A};
